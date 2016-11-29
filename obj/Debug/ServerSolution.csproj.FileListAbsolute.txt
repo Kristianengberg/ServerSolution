@@ -1,1 +1,5 @@
 C:\Users\Krist\OneDrive\Dokumenter\GitHub\ServerSolution\bin\Debug\ServerSolution.exe.config
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\ServerSolution\bin\Debug\ServerSolution.exe
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\ServerSolution\bin\Debug\ServerSolution.pdb
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\ServerSolution\obj\Debug\ServerSolution.exe
+C:\Users\Krist\OneDrive\Dokumenter\GitHub\ServerSolution\obj\Debug\ServerSolution.pdb
